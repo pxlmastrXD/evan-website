@@ -1,15 +1,5 @@
-# vite-app
+# Evan's Website
 
-To install dependencies:
+Finally found a dev environment, so I can do this actually
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+In progress.
